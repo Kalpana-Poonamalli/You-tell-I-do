@@ -1,0 +1,39 @@
+.login-container {
+  background-color: black;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+
+.login-form {
+  background-color: white;
+  width: 400px;
+  border-radius: 20px;
+  padding: 40px;
+}
+.label {
+  color: blue;
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 900;
+}
+.input {
+  height: 16px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 6px;
+}
+.submit {
+  color: #ffffff;
+  background-color: blue;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+.alert {
+  color: white;
+}
